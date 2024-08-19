@@ -5,6 +5,11 @@ e adaptada para o idioma Português Brasileiro, dado que sua versão original es
 Além da tradução e adaptação, a versão foi desenvolvida visando a utilização do aplicativo em dispositivos com sistema operacional iOS e Android, enquanto a versão original 
 está disponível apenas para iOS.
 
+# Distribuição Interna
+Acesse o link a seguir para instalar o _build_ de distribuição interna disponível no momento: [Android Internal Distribution Build](https://expo.dev/accounts/matheuscavini/projects/my-app/builds/d83bd25d-ca1e-4bdc-b4a0-bbb1ff6d4b61)
+
+Obs.: disponível apenas para Android.
+
 # Tecnologias Utilizadas
 - **Linguagens**: TypeScript, HTML, CSS, SQL
 - **Framework**: React Native - versão 0.74.3
