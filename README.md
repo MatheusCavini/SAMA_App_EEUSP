@@ -5,6 +5,16 @@ e adaptada para o idioma Português Brasileiro, dado que sua versão original es
 Além da tradução e adaptação, a versão foi desenvolvida visando a utilização do aplicativo em dispositivos com sistema operacional iOS e Android, enquanto a versão original 
 está disponível apenas para iOS.
 
+Os vídeos abaixo demonstram algumas das funcionalidades.
+
+https://github.com/user-attachments/assets/b0d8af50-1845-42d9-b13f-c3cff2bde499 
+
+[https://github.com/user-attachments/assets/1cf2cf98-b35d-48dd-858a-9861ea17e7a3](https://github.com/user-attachments/assets/38959b86-90cd-4efc-a534-60dcfad8c0c4)
+
+
+
+
+
 # Distribuição Interna
 Acesse o link a seguir para instalar o _build_ de distribuição interna disponível no momento: [Android Internal Distribution Build](https://expo.dev/accounts/matheuscavini/projects/my-app/builds/d83bd25d-ca1e-4bdc-b4a0-bbb1ff6d4b61)
 
